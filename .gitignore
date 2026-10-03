@@ -1,0 +1,5 @@
+﻿venv/
+lakehouse/
+spark-warehouse/
+__pycache__/
+*.log
